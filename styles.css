@@ -1,0 +1,20 @@
+.App {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #c3d68d;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.button {
+  background-color: rgb(6, 6, 54);
+  color: rgb(46, 2, 2);
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+h1 {
+  color: rgba(49, 2, 2, 0.788);
+}
